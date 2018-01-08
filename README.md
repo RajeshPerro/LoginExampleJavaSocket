@@ -8,8 +8,8 @@ Then go back to the console of MultithreadSocketServer.java give the demo input 
 
 Then, come back to the client GUI : try to login with the user name and password you provided just now.
 
-################# How the code works ###################
-Client : When user is giving input of passwrod
+################# How the code works ###################<br>
+Client : When user is giving input of passwrod <br>
 	message [1 | size of user name | 0] 
 		-> Server okay ready to read user name response [1 | 0 | 0]
 	message [client name]
